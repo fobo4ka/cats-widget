@@ -1,2 +1,1 @@
-cats-widget
-===========
+Проект запускается в Google Android Studio
